@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>global_icon_com</title>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页/未认证" transform="translate(-340.000000, -897.000000)" fill-rule="nonzero">
+            <g id="Group-7" transform="translate(320.000000, 708.000000)">
+                <g id="Group-6" transform="translate(0.000000, 56.000000)">
+                    <g id="Group-5" transform="translate(20.000000, 132.000000)">
+                        <g id="Group-2-Copy" transform="translate(0.000000, 0.000000)">
+                            <g id="Group" transform="translate(0.000000, 1.000000)">
+                                <line x1="1.45833333" y1="12.8333333" x2="12.5416667" y2="12.8333333" id="Line" stroke="#85878C" stroke-linecap="round" stroke-linejoin="round"></line>
+                                <rect id="Rectangle-Copy" fill="#85878C" x="4.08333333" y="4.66666667" width="2.33333333" height="1.16666667" rx="0.5"></rect>
+                                <rect id="Rectangle-Copy-2" fill="#85878C" x="4.08333333" y="7" width="2.33333333" height="1.16666667" rx="0.5"></rect>
+                                <polyline id="Path" stroke="#85878C" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.250000, 7.000000) rotate(-90.000000) translate(-5.250000, -7.000000) " points="-0.291666667 4.08333333 9.68333333 4.08333333 10.7916667 9.91666667 -0.291666667 9.91666667"></polyline>
+                                <polyline id="Path-Copy" stroke="#85878C" stroke-linecap="round" stroke-linejoin="round" transform="translate(9.916667, 8.166667) rotate(-90.000000) translate(-9.916667, -8.166667) " points="5.54166667 6.41666667 14.2916667 6.41666667 13.7447917 9.91666667 5.54166667 9.91666667"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
